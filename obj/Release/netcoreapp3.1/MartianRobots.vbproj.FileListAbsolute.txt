@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.exe
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.deps.json
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.runtimeconfig.json
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.dll
+C:\Users\gabri\source\repos\MartianRobots\bin\Release\netcoreapp3.1\MartianRobots.pdb
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.AssemblyInfo.vb
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.dll
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.pdb
+C:\Users\gabri\source\repos\MartianRobots\obj\Release\netcoreapp3.1\MartianRobots.genruntimeconfig.cache

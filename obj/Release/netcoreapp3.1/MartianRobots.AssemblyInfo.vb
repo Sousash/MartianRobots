@@ -14,7 +14,7 @@ Option Explicit On
 Imports System
 Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Gabriel"),  _
- Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
+ Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("DCSL GuideSmiths - Code Challenge"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _

@@ -1,0 +1,5 @@
+C:\Users\gabri\Desktop\MartianRobots\MartianRobots.exe
+C:\Users\gabri\Desktop\MartianRobots\MartianRobots.dll
+C:\Users\gabri\Desktop\MartianRobots\MartianRobots.deps.json
+C:\Users\gabri\Desktop\MartianRobots\MartianRobots.runtimeconfig.json
+C:\Users\gabri\Desktop\MartianRobots\MartianRobots.pdb

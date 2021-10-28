@@ -16,7 +16,7 @@ Module Program
         'Program finishes when user enter 'exit'
         'Get upper-right coordinates of the rectangular world
         Do
-            Console.WriteLine("Type rows and columns: (tpye 'exit' to finish the program)")
+            Console.WriteLine("Type rows and columns: (type 'exit' to finish the program)")
             strMarte = Console.ReadLine().Trim().Split(" ")
         Loop While Not fncValidateResponse(strMarte) And UCase(strMarte(0)) <> "EXIT"
 
@@ -28,7 +28,7 @@ Module Program
 
             Do
                 boContinue = True
-                Console.WriteLine("Robot(" & intNumRobot & ") - Waiting for instructions... (tpye 'exit' to finish the program)")
+                Console.WriteLine("Robot(" & intNumRobot & ") - Waiting for instructions... (type 'exit' to finish the program)")
 
                 'Read movement
                 strResponse = Console.ReadLine().Trim().Split(" ")
