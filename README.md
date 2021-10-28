@@ -10,4 +10,4 @@ How the program works:
  3. Next input are the instructions ('F', 'R', 'L') the robot will move around the grid (Ex. rfrfrfrf)
  4. Program will tell you where the robot ends or, in case that he is losts, where was the last spot and the word 'LOST'
 
-The program will finish if you type 'exit' at any moment
+The program will finish if you type 'exit' at any moment.
